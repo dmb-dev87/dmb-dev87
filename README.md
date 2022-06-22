@@ -40,8 +40,8 @@ Please contact me with dmbdev800@gmail.com.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/gradle-2-1174969.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-4-1174926.png" width="100"></td>
-    
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/apache-3628623-3029848.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-4-1174926.png" width="100"></td>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
   </tr>
   <tr>
