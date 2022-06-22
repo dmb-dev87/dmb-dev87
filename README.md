@@ -49,6 +49,8 @@ Please contact me with dmbdev800@gmail.com.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/bitcoin-176-441959.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/etherium-1-441953.png" width="100"></td>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/binance-1852415-1569636.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/eos-9-646062.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/ripple-13-646080.png" width="100"></td>
   </tr>
 </table>
 
