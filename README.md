@@ -52,11 +52,13 @@ Please contact me with dmbdev800@gmail.com.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/eos-9-646062.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/ripple-13-646080.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/sol-5382327-4498199.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/cryptocurrency-coins-2-1089052.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/rust-3521686-2945130.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/cryptocurrency-coins-2-1089052.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/nft-5163494-4304557.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/gas-fee-5381955-4568607.png" width="100"></td>
-    
-    
+    <td><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/gas-fee-5382197-4495826.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/uniswap-5382335-4498207.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/crypto-mining-1966929-1665934.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/staking-cryptocurrency-5304423-4415083.png" width="100"></td>
   </tr>
 </table>
 
