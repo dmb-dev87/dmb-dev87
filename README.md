@@ -45,12 +45,17 @@ Please contact me with dmbdev800@gmail.com.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/blockchain-1824297-1545919.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/blockchain-3001237-2495564.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/bitcoin-176-441959.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/etherium-1-441953.png" width="100"></td>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/binance-1852415-1569636.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/eos-9-646062.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/ripple-13-646080.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/sol-5382327-4498199.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/nft-5163494-4304557.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/premium/png-64/gas-fee-5381955-4568607.png" width="100"></td>
+    
+    
   </tr>
 </table>
 
