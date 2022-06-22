@@ -44,6 +44,9 @@ Please contact me with dmbdev800@gmail.com.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
   </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/bitcoin-176-441959.png" width="100"></td>
+  </tr>
 </table>
 
 ## About me
