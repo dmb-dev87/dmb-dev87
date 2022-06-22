@@ -41,7 +41,7 @@ Please contact me with dmbdev800@gmail.com.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/gradle-2-1174969.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-4-1174926.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>    
+    
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
   </tr>
   <tr>
@@ -59,6 +59,22 @@ Please contact me with dmbdev800@gmail.com.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/uniswap-5382335-4498207.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/crypto-mining-1966929-1665934.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/staking-cryptocurrency-5304423-4415083.png" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1869025-1583149.png" width="100"></td>    
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png" width="100"></td>    
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/azure-1868965-1583129.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/docker-3521391-2944835.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/kubernets-283489.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/jenkins-1-282385.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/amazon-s3-2968702-2464706.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/lambda-5-885874.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>    
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/dynamodb-5363105-4488894.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/sql-server-7-902502.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/postgresql-10-1175121.png" width="100"></td>    
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png" width="100"></td>
   </tr>
 </table>
 
