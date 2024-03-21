@@ -88,6 +88,6 @@ Please contact me with dmbdev800@gmail.com.
     <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dmb-dev87&show_icons=true&theme=aura&border_color=00dafb&include_all_commits=true"/>
   </a>
   <a href="#" title="Go to Source">
-    <img height="200em" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmb-dev87&layout=compact&hide_border=true&count_private=true&include_all_commits=true&theme=aura&show_icons=true"/>
+    <img height="180em" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmb-dev87&layout=compact&hide_border=true&count_private=true&include_all_commits=true&theme=aura&show_icons=true"/>
   </a>
 </div>
