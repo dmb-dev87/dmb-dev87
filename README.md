@@ -5,17 +5,6 @@
 
 Please contact me with dmbdev800@gmail.com.
 
-## Statistics
-
-<div align=center>
-  <a href="#" title="Go to Source">
-    <img height="200em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dmb-dev87&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=react"/>
-  </a>
-  <a href="#" title="Go to Source">
-    <img height="200em" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmb-dev87&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=react&show_icons=true"/>
-  </a>
-</div>
-
 ## Top Skills
 <table>
   <tr>
@@ -91,3 +80,14 @@ Please contact me with dmbdev800@gmail.com.
 * My experience tells everybody who I am, what I can do for your project.
 
 * A day in my life may consist of: prepping web art, fixing some front-end bugs, adding an API endpoint, dockerizing an application, database design, configuring a unit or UI test library, setting up a build or deployment plan, provisioning a test tier machine or feature work when I am lucky.
+
+## GitHub Stats
+
+<div align=center>
+  <a href="#" title="Go to Source">
+    <img height="200em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dmb-dev87&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=react"/>
+  </a>
+  <a href="#" title="Go to Source">
+    <img height="200em" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmb-dev87&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=react&show_icons=true"/>
+  </a>
+</div>
